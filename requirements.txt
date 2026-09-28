@@ -1,0 +1,2 @@
+# Linear Shin-Jeongeum requires no heavy external neural dependencies.
+# The tokenizer and benchmark scripts run natively on standard Python 3.9+.
